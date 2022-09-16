@@ -1,2 +1,2 @@
 SELECT * from rcdki;
-SELECT * from njpya;
+SELECT * from jktuf;
