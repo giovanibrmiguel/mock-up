@@ -5,4 +5,4 @@ SELECT * from aqjvc;
 SELECT * from psihv;
 SELECT * from mtfvh;
 SELECT * from aisog;
-SELECT * from qugvc;
+SELECT * from lcyni;
