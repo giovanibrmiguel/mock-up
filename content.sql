@@ -6,3 +6,4 @@ SELECT * from psihv;
 SELECT * from mtfvh;
 SELECT * from aisog;
 SELECT * from mclkk;
+SELECT * from vexfl;
