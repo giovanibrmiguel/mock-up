@@ -9,3 +9,4 @@ SELECT * from mclkk;
 SELECT * from qmgbf;
 SELECT * from qowvk;
 SELECT * from mcyxo;
+SELECT * from cecmw;
