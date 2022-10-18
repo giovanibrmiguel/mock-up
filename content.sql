@@ -7,4 +7,4 @@ SELECT * from mtfvh;
 SELECT * from aisog;
 SELECT * from mclkk;
 SELECT * from qmgbf;
-SELECT * from edyfh;
+SELECT * from dmlmd;
