@@ -10,4 +10,4 @@ SELECT * from qmgbf;
 SELECT * from qowvk;
 SELECT * from mcyxo;
 SELECT * from dhatm;
-SELECT * from cpafn;
+SELECT * from rrjub;
