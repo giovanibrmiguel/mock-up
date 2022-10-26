@@ -13,3 +13,4 @@ SELECT * from dhatm;
 SELECT * from wehbf;
 SELECT * from aypfa;
 SELECT * from gmcqm;
+SELECT * from fdigl;
