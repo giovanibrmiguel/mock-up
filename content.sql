@@ -12,3 +12,4 @@ SELECT * from mcyxo;
 SELECT * from dhatm;
 SELECT * from wehbf;
 SELECT * from aypfa;
+SELECT * from gmcqm;
