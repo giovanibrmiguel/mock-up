@@ -14,4 +14,4 @@ SELECT * from wehbf;
 SELECT * from aypfa;
 SELECT * from gmcqm;
 SELECT * from fdigl;
-SELECT * from whoeu;
+SELECT * from jypos;
