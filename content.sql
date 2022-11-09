@@ -17,4 +17,4 @@ SELECT * from fdigl;
 SELECT * from gckln;
 SELECT * from cvmwp;
 SELECT * from ifuni;
-SELECT * from bcbkj;
+SELECT * from jowmf;
