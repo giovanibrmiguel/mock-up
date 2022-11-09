@@ -19,4 +19,4 @@ SELECT * from cvmwp;
 SELECT * from ifuni;
 SELECT * from gwiwy;
 SELECT * from lmkxm;
-SELECT * from dhkdr;
+SELECT * from ugjje;
