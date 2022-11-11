@@ -22,3 +22,4 @@ SELECT * from lmkxm;
 SELECT * from bvbgx;
 SELECT * from mqbbj;
 SELECT * from ifaet;
+SELECT * from bmdlg;
