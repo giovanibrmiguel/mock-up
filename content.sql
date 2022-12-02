@@ -23,4 +23,4 @@ SELECT * from bvbgx;
 SELECT * from mqbbj;
 SELECT * from ifaet;
 SELECT * from bmdlg;
-SELECT * from rdmtd;
+SELECT * from uccet;
