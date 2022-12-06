@@ -26,3 +26,4 @@ SELECT * from bmdlg;
 SELECT * from uccet;
 SELECT * from tyqwi;
 SELECT * from rkxlt;
+SELECT * from wlrla;
