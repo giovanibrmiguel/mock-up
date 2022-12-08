@@ -28,4 +28,4 @@ SELECT * from tyqwi;
 SELECT * from rkxlt;
 SELECT * from wlrla;
 SELECT * from koint;
-SELECT * from tyocx;
+SELECT * from xgmhx;
