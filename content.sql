@@ -27,4 +27,4 @@ SELECT * from uccet;
 SELECT * from tyqwi;
 SELECT * from rkxlt;
 SELECT * from wlrla;
-SELECT * from koint;
+SELECT * from almhn;
