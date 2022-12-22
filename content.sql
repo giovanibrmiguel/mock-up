@@ -29,4 +29,4 @@ SELECT * from rkxlt;
 SELECT * from wlrla;
 SELECT * from almhn;
 SELECT * from tdhrh;
-SELECT * from irysr;
+SELECT * from giboj;
