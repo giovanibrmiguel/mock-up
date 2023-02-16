@@ -31,3 +31,4 @@ SELECT * from almhn;
 SELECT * from tdhrh;
 SELECT * from yotlb;
 SELECT * from hjtms;
+SELECT * from dhwfo;
