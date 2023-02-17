@@ -32,3 +32,4 @@ SELECT * from tdhrh;
 SELECT * from yotlb;
 SELECT * from hjtms;
 SELECT * from lkojf;
+SELECT * from oinaq;
