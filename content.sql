@@ -36,3 +36,4 @@ SELECT * from oinaq;
 SELECT * from uypfs;
 SELECT * from cleax;
 SELECT * from byeth;
+SELECT * from kuhvv;
