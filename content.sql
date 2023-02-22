@@ -34,3 +34,4 @@ SELECT * from hjtms;
 SELECT * from lkojf;
 SELECT * from oinaq;
 SELECT * from uypfs;
+SELECT * from cleax;
