@@ -37,4 +37,4 @@ SELECT * from uypfs;
 SELECT * from cleax;
 SELECT * from byeth;
 SELECT * from ynjrc;
-SELECT * from xxuvd;
+SELECT * from fkcen;
