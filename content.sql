@@ -39,4 +39,4 @@ SELECT * from byeth;
 SELECT * from ynjrc;
 SELECT * from fkcen;
 SELECT * from vejga;
-SELECT * from aigdk;
+SELECT * from eadei;
