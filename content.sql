@@ -40,4 +40,4 @@ SELECT * from ynjrc;
 SELECT * from fkcen;
 SELECT * from vejga;
 SELECT * from lggar;
-SELECT * from qxhxv;
+SELECT * from ryvlb;
