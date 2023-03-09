@@ -38,4 +38,4 @@ SELECT * from cleax;
 SELECT * from byeth;
 SELECT * from ynjrc;
 SELECT * from fkcen;
-SELECT * from kfnup;
+SELECT * from clint;
