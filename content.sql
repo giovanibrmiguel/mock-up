@@ -39,4 +39,4 @@ SELECT * from byeth;
 SELECT * from ynjrc;
 SELECT * from fkcen;
 SELECT * from wonuy;
-SELECT * from ucarr;
+SELECT * from ftgqx;
