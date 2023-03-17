@@ -41,3 +41,4 @@ SELECT * from fkcen;
 SELECT * from wonuy;
 SELECT * from dkvhd;
 SELECT * from glodr;
+SELECT * from muiep;
