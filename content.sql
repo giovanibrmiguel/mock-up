@@ -42,3 +42,4 @@ SELECT * from wonuy;
 SELECT * from dkvhd;
 SELECT * from glodr;
 SELECT * from mkciu;
+SELECT * from vufov;
