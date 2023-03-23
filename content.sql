@@ -44,3 +44,4 @@ SELECT * from glodr;
 SELECT * from cihiq;
 SELECT * from ocgge;
 SELECT * from xsprl;
+SELECT * from jrksq;
