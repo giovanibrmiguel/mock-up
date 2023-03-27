@@ -45,3 +45,4 @@ SELECT * from cihiq;
 SELECT * from ocgge;
 SELECT * from xsprl;
 SELECT * from jrksq;
+SELECT * from uiqsh;
