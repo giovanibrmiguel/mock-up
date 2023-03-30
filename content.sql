@@ -46,4 +46,4 @@ SELECT * from ocgge;
 SELECT * from xsprl;
 SELECT * from jrksq;
 SELECT * from nmare;
-SELECT * from urgvw;
+SELECT * from hayyp;
