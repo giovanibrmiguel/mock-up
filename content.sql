@@ -47,3 +47,4 @@ SELECT * from xsprl;
 SELECT * from jrksq;
 SELECT * from nmare;
 SELECT * from hayyp;
+SELECT * from jjysc;
