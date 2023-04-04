@@ -48,4 +48,4 @@ SELECT * from jrksq;
 SELECT * from nmare;
 SELECT * from hayyp;
 SELECT * from vdocc;
-SELECT * from yafou;
+SELECT * from nlsuj;
