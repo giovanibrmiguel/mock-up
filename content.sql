@@ -52,3 +52,4 @@ SELECT * from rkury;
 SELECT * from maohn;
 SELECT * from ikklx;
 SELECT * from nvokx;
+SELECT * from cnrva;
