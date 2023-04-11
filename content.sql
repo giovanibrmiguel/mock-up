@@ -51,4 +51,4 @@ SELECT * from vdocc;
 SELECT * from rkury;
 SELECT * from bvrod;
 SELECT * from modff;
-SELECT * from fnmje;
+SELECT * from spaqe;
