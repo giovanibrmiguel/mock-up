@@ -50,3 +50,4 @@ SELECT * from hayyp;
 SELECT * from vdocc;
 SELECT * from rkury;
 SELECT * from bvrod;
+SELECT * from modff;
