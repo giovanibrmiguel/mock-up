@@ -51,4 +51,3 @@ SELECT * from vdocc;
 SELECT * from rkury;
 SELECT * from maohn;
 SELECT * from ikklx;
-SELECT * from qfsnk;
