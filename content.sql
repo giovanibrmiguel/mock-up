@@ -52,4 +52,4 @@ SELECT * from rkury;
 SELECT * from bvrod;
 SELECT * from modff;
 SELECT * from oknjk;
-SELECT * from funok;
+SELECT * from tmurq;
