@@ -54,4 +54,3 @@ SELECT * from modff;
 SELECT * from oknjk;
 SELECT * from wjcut;
 SELECT * from tkssa;
-SELECT * from abjwa;
