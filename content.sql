@@ -56,3 +56,4 @@ SELECT * from wjcut;
 SELECT * from tkssa;
 SELECT * from ipyfi;
 SELECT * from pvbgp;
+SELECT * from tolyg;
