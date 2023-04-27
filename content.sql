@@ -57,4 +57,4 @@ SELECT * from tkssa;
 SELECT * from ipyfi;
 SELECT * from pvbgp;
 SELECT * from tolyg;
-SELECT * from gygpn;
+SELECT * from slrpf;
