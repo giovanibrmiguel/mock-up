@@ -55,4 +55,4 @@ SELECT * from oknjk;
 SELECT * from wjcut;
 SELECT * from tkssa;
 SELECT * from ipyfi;
-SELECT * from ikjnu;
+SELECT * from pvbgp;
