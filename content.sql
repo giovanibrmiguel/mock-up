@@ -59,3 +59,4 @@ SELECT * from pvbgp;
 SELECT * from tolyg;
 SELECT * from slrpf;
 SELECT * from mmruq;
+SELECT * from kfxyg;
