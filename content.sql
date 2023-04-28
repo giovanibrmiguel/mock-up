@@ -58,3 +58,4 @@ SELECT * from ipyfi;
 SELECT * from pvbgp;
 SELECT * from tolyg;
 SELECT * from slrpf;
+SELECT * from mmruq;
