@@ -60,4 +60,6 @@ SELECT * from tolyg;
 SELECT * from slrpf;
 SELECT * from mmruq;
 SELECT * from skqsw;
-SELECT * from shgct;
+SELECT * from lrwfe;
+SELECT * from rwacy;
+SELECT * from vgnil;
