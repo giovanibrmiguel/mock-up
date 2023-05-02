@@ -62,3 +62,4 @@ SELECT * from mmruq;
 SELECT * from skqsw;
 SELECT * from dnouj;
 SELECT * from hfeys;
+SELECT * from kmwkx;
