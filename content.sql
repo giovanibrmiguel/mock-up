@@ -66,4 +66,4 @@ SELECT * from kmwkx;
 SELECT * from hsqgr;
 SELECT * from ixliw;
 SELECT * from pwxgu;
-SELECT * from qplvs;
+SELECT * from qbnpd;
