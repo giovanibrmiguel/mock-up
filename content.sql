@@ -70,3 +70,4 @@ SELECT * from xrywt;
 SELECT * from nypeb;
 SELECT * from thrmj;
 SELECT * from ervww;
+SELECT * from ydpar;
