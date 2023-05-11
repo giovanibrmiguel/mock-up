@@ -71,4 +71,4 @@ SELECT * from nypeb;
 SELECT * from thrmj;
 SELECT * from ervww;
 SELECT * from ydpar;
-SELECT * from obrfq;
+SELECT * from lwlrm;
