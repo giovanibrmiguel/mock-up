@@ -72,4 +72,4 @@ SELECT * from thrmj;
 SELECT * from ervww;
 SELECT * from ydpar;
 SELECT * from sryeh;
-SELECT * from xkubg;
+SELECT * from imkaj;
