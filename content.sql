@@ -74,4 +74,4 @@ SELECT * from ydpar;
 SELECT * from sryeh;
 SELECT * from ddlrt;
 SELECT * from dvyta;
-SELECT * from layba;
+SELECT * from onxgo;
