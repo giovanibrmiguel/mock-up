@@ -75,3 +75,4 @@ SELECT * from sryeh;
 SELECT * from ddlrt;
 SELECT * from dvyta;
 SELECT * from onxgo;
+SELECT * from ceabb;
