@@ -72,4 +72,6 @@ SELECT * from thrmj;
 SELECT * from ervww;
 SELECT * from ydpar;
 SELECT * from sryeh;
-SELECT * from imkaj;
+SELECT * from ddlrt;
+SELECT * from dvyta;
+SELECT * from layba;
