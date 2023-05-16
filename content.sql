@@ -77,4 +77,4 @@ SELECT * from dvyta;
 SELECT * from onxgo;
 SELECT * from ceabb;
 SELECT * from mjndi;
-SELECT * from gbjsi;
+SELECT * from awxtc;
