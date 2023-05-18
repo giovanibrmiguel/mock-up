@@ -78,3 +78,4 @@ SELECT * from onxgo;
 SELECT * from ceabb;
 SELECT * from mjndi;
 SELECT * from wlcby;
+SELECT * from tinix;
