@@ -80,4 +80,4 @@ SELECT * from mjndi;
 SELECT * from wlcby;
 SELECT * from tinix;
 SELECT * from dwnon;
-SELECT * from dxogg;
+SELECT * from ikmpn;
