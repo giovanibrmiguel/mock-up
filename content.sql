@@ -81,3 +81,4 @@ SELECT * from wlcby;
 SELECT * from tinix;
 SELECT * from dwnon;
 SELECT * from wjwxt;
+SELECT * from ugyyn;
