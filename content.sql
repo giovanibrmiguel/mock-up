@@ -82,4 +82,4 @@ SELECT * from tinix;
 SELECT * from dwnon;
 SELECT * from wjwxt;
 SELECT * from uxnhu;
-SELECT * from lutsd;
+SELECT * from eoomn;
