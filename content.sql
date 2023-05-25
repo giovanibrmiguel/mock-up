@@ -84,3 +84,4 @@ SELECT * from wjwxt;
 SELECT * from uxnhu;
 SELECT * from xaqob;
 SELECT * from cfdod;
+SELECT * from mwomv;
