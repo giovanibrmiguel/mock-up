@@ -85,4 +85,4 @@ SELECT * from uxnhu;
 SELECT * from xaqob;
 SELECT * from cfdod;
 SELECT * from mwomv;
-SELECT * from fseat;
+SELECT * from lboln;
