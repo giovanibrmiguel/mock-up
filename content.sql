@@ -88,3 +88,4 @@ SELECT * from mwomv;
 SELECT * from upgfq;
 SELECT * from nxxpw;
 SELECT * from fjspt;
+SELECT * from faxse;
