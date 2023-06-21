@@ -92,4 +92,4 @@ SELECT * from faxse;
 SELECT * from yekve;
 SELECT * from glxcs;
 SELECT * from ffwdh;
-SELECT * from nwapj;
+SELECT * from gsfwy;
