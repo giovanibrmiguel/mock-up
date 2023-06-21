@@ -93,4 +93,4 @@ SELECT * from yekve;
 SELECT * from glxcs;
 SELECT * from ffwdh;
 SELECT * from lqwub;
-SELECT * from idrec;
+SELECT * from iymsj;
