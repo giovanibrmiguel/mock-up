@@ -95,3 +95,4 @@ SELECT * from ffwdh;
 SELECT * from lqwub;
 SELECT * from iymsj;
 SELECT * from diayu;
+SELECT * from objai;
