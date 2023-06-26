@@ -97,4 +97,4 @@ SELECT * from iymsj;
 SELECT * from diayu;
 SELECT * from objai;
 SELECT * from afssx;
-SELECT * from scgyg;
+SELECT * from ocpqf;
