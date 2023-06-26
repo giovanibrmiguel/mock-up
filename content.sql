@@ -96,4 +96,4 @@ SELECT * from lqwub;
 SELECT * from iymsj;
 SELECT * from diayu;
 SELECT * from objai;
-SELECT * from nogsk;
+SELECT * from afssx;
