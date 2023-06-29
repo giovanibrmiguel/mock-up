@@ -100,3 +100,4 @@ SELECT * from afssx;
 SELECT * from eoioe;
 SELECT * from hlilu;
 SELECT * from xbxje;
+SELECT * from yasge;
