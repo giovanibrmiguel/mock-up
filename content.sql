@@ -102,3 +102,4 @@ SELECT * from hlilu;
 SELECT * from xbxje;
 SELECT * from qrjce;
 SELECT * from hkxue;
+SELECT * from fwkqt;
